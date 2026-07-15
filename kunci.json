@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dashboard-dropping-air",
+  "private_key_id": "bffa062d25275cfe32b01b0ff9b578c99ae6a4ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDdCSsTfi8ehfA\nyvZ+/aj9LjfUokGZr8CgBeORDFZw5sRJva3bvHS+J0XVY/Li0I0tt/jvUOdr6m5B\nRww4fudq/kS9No/RkDe0EctXB/U+WX6bLSZeZXKNWz05dbBv21kbopXB8suy7j9u\n9FqYIrVGhS0T/FRKBSL5oW8+YHzwatab+l+RJHI62WWKUwWmBkYZoyzhXMcsQWT7\nOtFfW6qzTZL+gpvzXuhqPCSZiIuhV7b3DHHIhIcnbjVKicUdOGK+KQV64AD1OvJ6\nV0gyQ9Fe1syGWjf5OwdGb9nkeJZcuCMPRLsUTcJf4xWHsDNrBHKzta1kFfxnqi0T\n+2hA9EbtAgMBAAECggEALegLzAeFPjl79j2Ff0azSAHwvYm9mCwCNWOkszb/X4Wo\nATzihpuBHP9q5MeUrua2XhBZkNYDAOL/MehOy78sugHOIdXcmidCGhJa3M5i8NnC\nxY4pdp7jtKVDIEmO3vrZN0cs3vCYnOZd8kDEvXpbctyJPao0nu0Nba3Xy8IMXkgE\nmD49Q8yRTBbnl3CLa74g3THftm+WDaWWBF4eRpPIZYatwBgvv8167FL+bV6gqH47\nyK2GvJ14pXASFOsfV+J8GsG+jgaeeq0xhltP2TWTdYs2H7KRAvp9BgCVeXss2gXq\np30ZhfRgIZ4wZ3sGoaIdIC2n9cu1Xp2O1uznh5/CoQKBgQDjVB3iTyrxgUmX5CAR\nEtuSPAo6N13PjQzArxEpzsBMH70uBkFJnLAhc0adwPizm6DPbjxKPFx2Qmh7HuD4\nh78sf3VfELgMgc8YiZ2sd6kevHh2H+FnBQiXp8sBGREjNwNeNFiC2hbKL/HQVTRW\n97/wp6rmI0zMw6e4wt4N+gefzQKBgQDcGt05n0MILeO2ivFAf/cbTmx7VHo86oWa\nm0AKu8bBrCf7tvD5hzRhV8uw4BHpcQZkkK281Lxcs3/VTfZFcmfA4w/qMM8MbIqa\nbdgk2lVvMEV82VcsBo/g38yO827UGYpD1PO6elrKqvMpZ1SlpMU94AGcu2abJL+x\ne4hby07joQKBgEW+yghj963u17BlSj1SxtD/4LdpwztpcA8x5xcnmrIATt9vBdra\n2uL4ZiMCUItyZQ0fKhowmMGjsECOAcHejBXP6SfIjl8v+GTz289NSzLl6iN7toEP\n90noLg1hLnPabgsaDknfNXzE5vDfI1bHXjksh+9hxy9PnAbAqrYpDuvFAoGAHEq3\ntPhrvVlos8YYTJomQTRLbW7mZ34dvknGaZrJaYufeBOD1g8zBHAsloe2xbLph3Ox\nYVxW+fN4swpaZYLXI0wMd6Xed1JcXo1QAyytXqVtySaGtfoB9H3P5XAVBt5hj2aI\nDag8k2B18RR/JOuRDusESgksnzSSD1Y5qNLxSQECgYEAoYoRlxO3nQ+6DYnkv1sj\nTsMM+RA5pNkqY6UqbYGom/4MUIyfYzBujTCyB7sNOre9UmHR2uVTQqzF9CJ8HZ/a\ngqZUbQ33FScmkdE8Yx3C1AltrVZNs8BQneygKz290y9UV5qMbE+/Qf5ySTjPv9YC\nvgFj2ovG3I6CtVH696LPTXo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dashboard-bot@dashboard-dropping-air.iam.gserviceaccount.com",
+  "client_id": "108778173620382242666",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dashboard-bot%40dashboard-dropping-air.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
